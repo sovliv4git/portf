@@ -7,7 +7,7 @@ import java.sql.*;
  * @author solovev (sovliv@yandex.ru)
  * @since 17.03.2019
  */
-public class ConnectToDataBase extends Thread{
+public class ConnectToDataBase extends Thread {
 
     /**
      *  Константы для подключения к базе данных и запрос для демострации работы
